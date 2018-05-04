@@ -24,6 +24,7 @@ func pow(x, y, lim float64) float64 {
 	return lim
 }
 
+
 func main() {
 	a, b := sqrt(2), sqrt(3)
 	fmt.Println(a, b)
